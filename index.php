@@ -71,7 +71,7 @@ if (isset($_POST['kirim'])) {
         <div class="comment-list">
             <h3>Recent Supports:</h3>
             <?php
-            // Logika Mengambil Data (SELECT)
+         
             $result = mysqli_query($conn, "SELECT * FROM fans ORDER BY id DESC");
             while ($row = mysqli_fetch_assoc($result)) {
                 echo "

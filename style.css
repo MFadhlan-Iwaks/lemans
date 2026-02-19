@@ -18,7 +18,7 @@ h1, h2, .logo {
     text-transform: uppercase;
 }
 
-/* Navbar */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -38,7 +38,7 @@ h1, h2, .logo {
 }
 
 .logo span {
-    color: #e74c3c; /* Racing Red */
+    color: #e74c3c;
 }
 
 .nav-links {

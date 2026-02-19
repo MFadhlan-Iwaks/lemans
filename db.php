@@ -1,9 +1,9 @@
 <?php
-// SIMPAN SEBAGAI db.php DI WINDOWS (XAMPP)
+
 $host = "localhost";
-$user = "root";       // Username bawaan XAMPP
-$pass = "";           // Password bawaan XAMPP biasanya kosong
-$db   = "lemans_db";  // Pastikan database ini sudah dibuat di phpMyAdmin
+$user = "root";       
+$pass = "";           
+$db   = "lemans_db";  
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
