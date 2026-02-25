@@ -21,7 +21,6 @@ if (isset($_POST['kirim'])) {
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
     <style>
-        /* CSS Tambahan untuk Form Database */
         .fan-zone { padding: 50px 20px; text-align: center; background: #111; }
         .form-box { max-width: 500px; margin: 0 auto; background: #222; padding: 30px; border-radius: 10px; border: 1px solid #e74c3c; }
         input, select, textarea { width: 100%; padding: 10px; margin: 10px 0; background: #333; border: none; color: white; border-radius: 5px; }
