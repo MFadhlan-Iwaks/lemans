@@ -164,7 +164,6 @@ footer {
     color: #777;
 }
 
-/* Mobile Responsive */
 @media (max-width: 768px) {
     .hero h1 { font-size: 2rem; }
     .navbar { padding: 15px 20px; flex-direction: column; }
